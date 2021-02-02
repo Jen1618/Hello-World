@@ -7,4 +7,6 @@
     <string name = "button_countdown">Count Down</string>
     <string name = "second_activity">Second Activity</string>
     <string name="button_goBack">Go Back</string>
+    <string name="third_activity">Third Activity</string>
+    <string name="button_goNext">Go next</string>
 </resources>
